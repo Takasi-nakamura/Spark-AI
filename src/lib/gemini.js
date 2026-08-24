@@ -3,8 +3,8 @@
 // Google の generativelanguage.googleapis.com へ直接リクエストします。
 
 export const MODELS = [
-  { id: 'gemini-1.5-flash-8b', label: '3.5 Flash-Lite', hint: '一番速い・軽量タスク向け' },
-  { id: 'gemini-2.0-flash', label: '3.6 Flash', hint: 'バランス型・標準モデル' },
+  { id: 'gemini-3.5-flash-lite', label: '3.5 Flash-Lite', hint: '一番速い・軽量タスク向け' },
+  { id: 'gemini-3.6-flash', label: '3.6 Flash', hint: 'バランス型・標準モデル' },
 ]
 
 export const THINKING_LEVELS = [
